@@ -1,5 +1,5 @@
 # SantaTokenAirdropBot - chat bot
-It is repository for chat bot: [@SantaTokenAirdropBot](https://t.me/SantaTokenAirdropBot)
+It is repository for chat bot: [@doge_cloudmining_bot](https://t.me/doge_cloudmining_bot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
