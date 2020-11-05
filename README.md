@@ -1,4 +1,4 @@
-# SantaTokenAirdropBot - chat bot
+# doge_cloudmining_bot - chat bot
 It is repository for chat bot: [@doge_cloudmining_bot](https://t.me/doge_cloudmining_bot)
 
 ## What it is?
